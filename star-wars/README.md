@@ -1,5 +1,7 @@
 # star-wars-universe
 
+> ⚠️ **Warning:** The external Star Wars API (swapi.dev) used in this project is currently unstable and may be unavailable at times. If you experience issues loading data, it is likely due to API downtime.
+
 ## [Access the app](https://star-wars-universe.netlify.app/)
 ## Project setup
 ```
